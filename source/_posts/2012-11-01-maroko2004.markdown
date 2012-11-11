@@ -1,0 +1,172 @@
+---
+layout: post
+title: "Maroko 2004"
+date: 2004-11-03 22:29
+comments: true
+categories:
+---
+
+První cesty do arabského světa, tipy a triky.
+
+{% photo /assets/pix/2004maroko/maroko-01.jpg %}
+
+## Cesta
+
+### 11-12.9. Casablanca
+
+Přiletěli jsme 11.9. ráno kolem půl druhé místního času (v létě GMT -1). Letiště v mlze, uprostřed naprosté tmy, vlhko a teplo. Mírně udiveni nad tím, že taxík obsluhují dva lidi, že Mercedes-Benz řady E dokáže ujet bez poruchy 30 km, i když už má najeto přes 700 tisíc a že červená na semaforu má v noční Casablance pouze čistě informační hodnotu, jsme se za 200 Dh dopravili do centra města. Ubytovali jsme se v nepříliš zachovalém, ale velmi romanticky vyhlížejícím hotýlku Touring, tak z dvacátých let a s francouzskými okny. Tam jsme rovněž poznali nejspíš tradiční marocké osvětlení, které bylo bez výjimky ve všech hotelech, ve kterých jsme bydleli - na dvou drátech visící žárovka ze stropu.
+
+{% photo /assets/pix/2004maroko/cas-04.jpg %}
+{% photo /assets/pix/2004maroko/cas-06.jpg %}
+{% photo /assets/pix/2004maroko/cas-08.jpg %}
+
+Odpoledne jsme prošli malou, ale pěknou a turistikou nepříliš zasaženou medinu a navštívili mešitu Hassana II, jedinou kam jsme byli v Maroku coby nevěřící vpuštěni, samozřejmě ne zadarmo: dospělí 120 Dh, studenti polovic. Mešita je obrovská, prý třetí největší na světě, pojme 25000 lidí, má 210 m vysoký minaret a různé technické vychytávky typu vytápěná podlaha, posuvná otevírací střecha, skryté reproduktory, lasershow namířená na Mekku, apod. Postavena byla v roce 1993 podle projektu architekta Michela Pinseaua, pracovalo na ní 10000 řemeslníků po dobu pěti let a stála kolem 600 miliónů USD hrazených z veřejné sbírky. Lonely Planet rovněž tvrdí, že do obrovského vnitřního prostoru mešity by se vešel celý Notre Dame (který?) nebo vatikánský chrám sv. Petra.
+
+{% photo /assets/pix/2004maroko/cas-01.jpg %}{% photo /assets/pix/2004maroko/cas-07.jpg %}{% photo /assets/pix/2004maroko/cas-03.jpg %}{% photo /assets/pix/2004maroko/cas-09.jpg %}{% photo /assets/pix/2004maroko/cas-05.jpg %}{% photo /assets/pix/2004maroko/cas-02.jpg %}
+
+### 12-15.9. Fes
+
+Do Fesu to trvá z Casablancy vlakem asi 4,5 h. Ve vlaku jsme cestovali v kupé se skupinou přátelských Maročanek, z nichž jedna studovala na Ukrajině a jedna obstojně vládla angličtinou, takže jsme strávili cestu velmi zajímavým anglicko-rusko-česko-francouzským rozhovorem o životě v Maroku.
+
+Medina ve Fesu je ta největší, nejspletitější a nejkrásnější, kterou jsme v Maroku viděli. Desítky, možná stovky úzkých křivolakých uliček, některé kryté střechou, všechny plné lidí, obchodů, restaurací, trhovců, bedniček se zbožím, koček, oslů, mopedů, kapsářů a turistů. Lonely Planet říká: "Fes el-Bali (Starý Fes) je jedním z největších funkčních středověkých měst na světě, s Fesem jsou v tomto směru srovnatelné snad jen Marrákeš, Káhira a Damašek." Mířili jsme do některého z hotelů popsaných v Lonely Planet, ale hned u brány nás odchytil klučina, že prý nám ukáže hotel za 25 Dh/osobu. Samozřejmě přeháněl, ale ne moc, ubytovali jsme se za 30 Dh/osobu v polorozpadlém, ale čistém Hotel du Parc, s malým balkonkem (bez zábradlí) s nádherným výhledem na věže královkého paláce a část mediny. Hotel se nachází na konci Fes el-Jdid těsně před restaurací La Noria (v Lonely Planet). Poněvadž jsme zlí evropský turisti, nedali jsme klučinovi bakšiš. Přežil to.
+
+{% photo /assets/pix/2004maroko/fes-01.jpg %}{% photo /assets/pix/2004maroko/fes-02.jpg %}{% photo /assets/pix/2004maroko/fes-03.jpg %}{% photo /assets/pix/2004maroko/fes-10.jpg %}{% photo /assets/pix/2004maroko/fes-12.jpg %}
+
+Jsou celkem dva způsoby pohybu po medině - buďto jasně vím, kam chci jít, je to na hlavní cestě po medině a je to v průvodci, jdu tam nejkratší cestou a mám trochu štěstí - potom tam dojdu a pak zase zpátky. Nebo se potuluju po medině tak, že jdu tam, kde se mi to líbí, pak je ale naprosto vyloučeno, že bych se někdy vymotal ven, takže nezbývá než se ptát a ptát a ptát na cestu, přičemž je dost vysoká pravděpodobnost, že člověk narazí na "placeného průvodce", kterého je velmi těžké se zbavit, i když nic nepotřebujete.
+
+{% photo /assets/pix/2004maroko/fes-07.jpg %}{% photo /assets/pix/2004maroko/fes-09.jpg %}{% photo /assets/pix/2004maroko/fes-11.jpg %}
+
+Nechali jsme se vydrhnout v hammámu (veřejné lázně, samozřejmě oddělené mužské a ženské) speciální žínkou z mně neznámého materiálu. Potom jsme se vydali do části mediny, kde se prodává kožené zboží. Byli jsme tam nalákáni na terasy s výhledem na koželužny, kde jsme z výšky viděli všechny činnosti vydělávání kůží. Terasy byly ve skutečnosti rozhlehlým obchodem, kde na nás nasadili opravdovou kapacitu mezi zkušenými mistry obchodníky. Byl opravdu dobrý, utratil jsem tam poměrně slušné peníze :)
+
+{% photo /assets/pix/2004maroko/fes-05.jpg %}{% photo /assets/pix/2004maroko/fes-04.jpg %}{% photo /assets/pix/2004maroko/fes-06.jpg %}{% photo /assets/pix/2004maroko/fes-08.jpg %}
+
+### 15-17.9. Beni Mellal
+
+Původní plán byl vůbec se nezdržet a pokračovat do Azilalu a k Ouzoudským vodopádům, ale dostal jsem nějakou střevní infekci a horečku a museli jsme zůstat. V tomhle městě se nám nepodařilo nalézt nic "turisticky zajímavého", nicméně krátký pohled do života v obyčejném marockém maloměstě taky stál za to. Jedinečná příležitost vyzkoušet smlouvání v arabštině na místním trhu, kde nemluví ani francouzsky. Bydleli jsme v hotelu Zidania, hned u autobusového nádraží, s výhledem na místní smetiště/tržiště. Na infekci nakonec zabral Ercefuryl, který jsem si přivezl z Česka.
+
+{% photo /assets/pix/2004maroko/bml-01.jpg %}{% photo /assets/pix/2004maroko/bml-02.jpg %}{% photo /assets/pix/2004maroko/bml-03.jpg %}
+
+### 17-19.9. Cascades d'Ouzoud
+
+Ouzoudské vodopády jsou taková marocká Niagara, příjemná oáza uprostřed vyprahlých kopců. Na terasách kolem malého jezera je množství obchodů a hospůdek, s výhledem na vodopády se dá celé hodiny příjemně obědvat. Koupání v jezírku je příjemně osvěžující (rozuměj: pěkná klendra) a místní Berbeři jsou celkem zvyklí na polonahé Evropany i Evropanky v plavkách.
+
+{% photo /assets/pix/2004maroko/ouz-03.jpg %}{% photo /assets/pix/2004maroko/ouz-05.jpg %}{% photo /assets/pix/2004maroko/ouz-02.jpg %}
+
+Místní stánkaři už patrně viděli Čecha, poněvadž na nás pokřikovali: "Ahoj", "Dobrýýý" a "Zadarmo". I my jsme tam potkali krajany, Martina a Terezu z Prahy, prima lidi, se kterými jsme jako správní baťůžkáři později nasdíleli Grand taxi.
+
+{% photo /assets/pix/2004maroko/ouz-01.jpg %}{% photo /assets/pix/2004maroko/ouz-06.jpg %}{% photo /assets/pix/2004maroko/ouz-04.jpg %}
+
+V hotelu Dar es-Salaam nám udělal dobrou cenu věčně veselý Berber Mohamed, se kterým jsme za teplých večerů probrali marocký pop a zakouřili berberský hašiš.
+
+### 19-21.9. Marrakech
+
+Marrakech býval po staletí obchodním centrem jihu Maroka, ale velkým dílem je znát francouzský vliv z období 19. století. Místo úzkých, křivolakých ulic jsou v centru města široké rovné bulváry a i uličky v medině jsou širší, celkově se ve městě dá docela dobře orientovat. Bydleli jsme v hotelu Aday, naproti hotelu Essauira.
+
+{% photo /assets/pix/2004maroko/mar-08.jpg %}{% photo /assets/pix/2004maroko/mar-09.jpg %}
+
+Na náměstí Djema el-Fna jsou spousty pouličních umělců ukazujících všechno možné od kejklířů, přes opice, hady až po vyprávění příběhů a divadelní představení transvestitů (marocká travesti show?). Velkým zážitkem na tomto náměstí je večerní trh. Desítky stánků prodávají nejrůznější lahůdky, vše za pevné ceny. Bylo by hříchem večeřet někde jinde :) Měli jsme vařené šneky, smažené krevety, kuskus, dort a skořicový čaj a místní specialitu pastillu - placku posypanou cukrem a skořicí, plněnou kuřecím masem, zeleninou a mandlemi. Delikatesa! Prodavači pomerančové šťávy na náměstí překřikují jeden druhého, abychom zašli právě k nim, trumfují se kvalitou služeb a neměli jsme problém prodavače přemluvit, aby před námi vymačkal čerstvou šťávu, bez vody a ledu.
+
+<%= picture("mar-04.jpg", :class => :left) %>
+
+Jardin Ménara rozhodně nedoporučujeme k návštěvě. Ačkoliv jsou v Lonely Planet popsány jako "docela klidné místo, kam se uchýlit před letním horkem a pouličním shonem", jedná se ve skutečnosti o "docela klidné místo obklopené dosti rušnými ulicemi, kde se nelze schovat před slunečním žárem, kromě jediné kavárny, kde mají pouze plechovky limonády za 20 Dh". Rozhodně ale doporučujeme k návštěvě Jardin Majorelle, zahrady vytvořené francouzkým malířem Jacquem Majorellem. Bohužel byla zahrada poměrně dost plná turistů.
+
+{% photo /assets/pix/2004maroko/mar-05.jpg %}{% photo /assets/pix/2004maroko/mar-06.jpg %}{% photo /assets/pix/2004maroko/mar-07.jpg %}
+
+Pokud se jen trochu zajímáte o architekturu a chcete vědět jak bydlel jeden z nejmocnějších mužů Maroka Si Ahmed ben Musa, vrchní vezír sultána Mulaje al-Hasana I., dejte si tu práci a najdětě nenápadný vchod Paláce de la Bahia, návštěva stojí za to.
+
+{% photo /assets/pix/2004maroko/mar-02.jpg %}{% photo /assets/pix/2004maroko/mar-01.jpg %}{% photo /assets/pix/2004maroko/mar-03.jpg %}
+
+### 21-25.9. Imlil, Džebel Tubkal
+
+Cestou do Imlilu jsme přestupovali v Asni. Už Lonely Planet varuje před agresivitou místních obchodníků a jejich naháněčů, ale že to bude taková síla, to jsme nečekali. Snaží se zmateného turistu zatáhnout k sobě domů pod jakoukoliv možnou záminkou (např. strýc má náklaďák a sveze vás do Imlilu, vlastním nejlevnější kavárnu špičkové kvality, ...) a když se jim to nepovede, jsou dost hrubí.
+
+{% photo /assets/pix/2004maroko/tub-01.jpg %}{% photo /assets/pix/2004maroko/tub-02.jpg %}{% photo /assets/pix/2004maroko/tub-03.jpg %}{% photo /assets/pix/2004maroko/tub-04.jpg %}{% photo /assets/pix/2004maroko/tub-05.jpg %}{% photo /assets/pix/2004maroko/tub-06.jpg %}{% photo /assets/pix/2004maroko/tub-07.jpg %}{% photo /assets/pix/2004maroko/tub-09.jpg %}{% photo /assets/pix/2004maroko/2004tubkal.jpg %}{% photo /assets/pix/2004maroko/tub-08.jpg %}
+
+Do Imlilu jede z Asni buď společný taxík (každou chvíli) a cena se dá usmlouvat na 10 Dh/osobu. Imlil je hodně turistická obec, ale naštěstí naprosto v pohodě, lidé nabízeli služby, ale na marocké poměry mile a neagresivně. Ubytovali jsme se v Café Aksoual, hotel má střešní terasu s nádherným výhledem na hory. Nebyl problém nechat v hotelu za 20 Dh batoh na dva dny, zatímco jsme šli na trek. V Imlilu jsme taky objevili obchod Alimentation General, který měl nejnižší ceny základních potravin, co jsme zažili v celém Maroku.
+
+Cesta z Imlilu do Refuge du Tubkal je dlouhá asi 10 km s převýšením kolem 1400 m. Není to těžký terén, ale převýšení je velké, navíc cesta končí asi ve výšce 3400 m n.m., takže se jedná o velmi sportovní zážitek (rozuměj: málem jsem chcípnul, ale to mohlo být tím, že jsem několik dní předtím ležel s horečkou). Refuge du Tubkal je v podstatě ubytovna se společnou noclehárnou s možností koupit jídlo, ale poměrně draho. Snídaně stojí 30 Dh, večeře bez polívky taky tak.
+
+Další den jsme si vzali jen pár věcí a vyšplhali z Refuge du Tubkal na vrchol Džebel Tubkal (4167 m n.m.). Pěkný výhled, cesta nahoru poměrně snadná, ale na cestu dolů to chce dobrou obuv, je tam hodně štěrku i písku a klouže to. Ke konci cesty nám začalo pršet, takže pole balvanů byla kluzká a sestup se dost zpomalil. Znovu jsme přespali v Refuge a další den sestoupili do Imlilu, opět do Café Aksoual. Bylo nádherné počasí a cesta dolů byla poměrně snadná.
+
+### 25-30.9. Agadir
+
+Cesta do Agadiru trvá z Marrakeche asi 4 hodiny, ale bylo to dost utrpení, bylo totiž horko, navíc první půlhodina byla v Marrakechské zácpě, takže jsme se kapánek dusili (Maročané odmítají otevřít okno i v největším vedru, patrně ze strachu z nastydnutí). Navíc Terezku začlo škrabkat v krku a byla hodně unavená. Lonely Planet říká: "Agadir je moderní město, které bylo kompletně přestavěno po ničivém zmetřesení v roce 1960; je to ovšem dvojnásobná tragédie, protože jeho rekonstrukce přišla na řadu právě v dekádě, kdy vznikalo obrovské množství ohavných staveb." Myslím, že tak hrozné to není, nicméně je to město bez typické mediny, hodně turistické. Kolem moře je spousta pláží, ačkoliv nízká teplota, silný vítr a velké vlny, které jsme zažili v září, umožňují v moři tak maximálně surfovat. Je to v letních měsících jiné?
+
+{% photo /assets/pix/2004maroko/aga-01.jpg %}{% photo /assets/pix/2004maroko/aga-02.jpg %}{% photo /assets/pix/2004maroko/aga-03.jpg %}{% photo /assets/pix/2004maroko/aga-04.jpg %}{% photo /assets/pix/2004maroko/aga-05.jpg %}
+
+Terezčino podivné škrabkání přerostlo v dost ošklivou angínu, takže jsme upustili od plánů pokračovat do národního parku Sús-Massa a zůstali jsme několik dní v Agadiru. Objevil jsem jediné knihkupectví v Maroku, které mělo opravdu velkou zásobu počítačové literatury - od návodů nástrojů Office, přes učebnice progr.jazyků, algoritmizace a poměrně zajímavých knih typu: XML v Java aplikacích, asi 30 knih od Microsoft Press, apod. Z toho usuzuju, že sehnat v Maroku odbornou literaturu není neřešitelný problém. Terezka je byla stejného názoru, jelikož po nekonečném hledání v knihkupectvích v Casablance, Fesu a Marrakechi zde se slzami v očích zakoupila Faunu Maroka. Bohužel všechna literatura je ve francouzštině. Knihkupectví Librarie al-Mougar je na křižovatce Ave du Prince Mullay Abdullah a Ave du 29 Février.
+
+### 30.9.-1.10. Marrakech a cesta domů
+
+Z Agadiru jsme odjeli opět busem zpátky do Marrakeche. Ubytovali jsme se v hotelu Medina, tentokrát se nám podařilo usmlouvat 80 Dh/pokoj. Pustili jsme se do zuřivého handrkování na tržišti ve snaze nakoupit domů nějaké dárky. Po třech týdnech v Maroku, nejen že mi začali místní říkat Alibaba (kvůli dlouhým vousům), ale taky už jsme měli jakési povědomí o skutečných cenách. Ačkoliv nemám iluze o dostatečné marži, myslím, že jsme se nedali lacino (Berber prajs ;)).
+
+Do Casablanky jsme jeli klimatizovaným vlakem. Dali jsme si královskou večeři a pokračovali na letiště. To bylo opět v naprosté tmě a ponořené do mlhy. Poslednímu pohledu na Maroko dominoval v mramorové letištní hale policista se samopalem.
+
+Sbohem Maroko! Bylo tu hezky.
+
+## Ceny
+
+### Kurz
+
+1 Dh (Marocký Dirham) byl v září 2004 zhruba 2,90 Kč.
+
+### Cestování
+
+ <table>
+<tr><th>Odkud</th><th>Kam</th><th>Kolik[Dh/os]</th><th>Popis</th></tr>
+<tr><td>Letiště</td><td>Casablanca</td><td>100</td><td>taxi</td></td></tr>
+<tr><td>Casablanca</td><td>Fes</td><td>96</td><td>vlak</td></td></tr>
+<tr><td>Fes</td><td>Beni Mellal</td><td>70</td><td>bus, +5Dh/zavazadlo, +4Dh bakšiš za vydání</td></td></tr>
+<tr><td>Beni Mellal</td><td>Azilal</td><td>?</td><td>bus, zavazadla zdarma</td></td></tr>
+<tr><td>Azilal</td><td>Cascades d'Ouzoud</td><td>15</td><td>spol.taxi</td></td></tr>
+<tr><td>Cascades d'Ouzoud</td><td>hlavní silnice</td><td>10</td><td>spol.taxi</td></td></tr>
+<tr><td>hlavní silnice</td><td>Demnate</td><td>17,5</td><td>spol.taxi</td></td></tr>
+<tr><td>Demnate</td><td>Marrakech</td><td>20</td><td>bus</td></td></tr>
+<tr><td>Marrakech</td><td>Asni</td><td>10</td><td>mikrobus</td></td></tr>
+<tr><td>Asni</td><td>Imlil</td><td>10</td><td>spol.taxi</td></td></tr>
+<tr><td>Imlil</td><td>Marrakech</td><td>25</td><td>spol.taxi</td></td></tr>
+<tr><td>Marrakech</td><td>Agadir</td><td>60</td><td>bus + 5Dh za obě zavazadla</td></td></tr>
+<tr><td>Agadir</td><td>Marrakech</td><td>60</td><td>bus + 5Dh za obě zavazadla</td></td></tr>
+<tr><td>Marrakech</td><td>Casablanca</td><td>75,50</td><td>vlak</td></td></tr>
+<tr><td>Casablanca</td><td>Letiště</td><td>30</td><td>vlak</td></td></tr>
+</table>
+
+Letenky jsme koupili v GTS International asi 3 týdny před cestou za 10000 Kč (studentská) a 13000 Kč (normální), Praha-Frankfurt-Casablanca. Let tam trval asi 6 hodin (1:20 do Frankfurtu, 3 hod do Casablancy, zbytek čekání na letišti), let zpátky měl trvat 5:30 hod, ale vinou píchlé pneumatiky letadla z Frankfurtu trval 7 hodin.
+
+### Ubytování
+
+ <table>
+<tr><th>Kde</th><th>Název</th><th>Nocí</th><th>Cena[Dh/oba]</th><th>Poznámka</th></tr>
+<tr><td>Casablanca</td><td>Hotel Touring, 87 Rue Allah ben Abdellah</td><td>2</td><td>130</td><td>spol.sprcha</td></tr>
+<tr><td>Fes</td><td>Hotel du Parc, Fes el-Jdid, u La Noria</td><td>3</td><td>60</td><td>spol.sprcha +7Dh</td></tr>
+<tr><td>Beni Mellal</td><td>Hotel Zidania, u bus.nádr.</td><td>2</td><td>100</td><td>pokoj s koupelnou</td></tr>
+<tr><td>Cascades d'Ouzoud</td><td>Hotel Dar Es Salaam, náměstí</td><td>2</td><td>75</td><td>spol.studená sprcha</td></tr>
+<tr><td>Marrakech</td><td>Hotel Aday, naproti hot.Essauira</td><td>2</td><td>80</td><td>spol.sprcha</td></tr>
+<tr><td>Imlil</td><td>Café Aksoual</td><td>1</td><td>60</td><td>spol.sprcha</td></tr>
+<tr><td>Tubkal</td><td>Refuge du Tubkal</td><td>2</td><td>80</td><td>spol.sprcha +10Dh</td></tr>
+<tr><td>Imlil</td><td>Café Aksoual</td><td>1</td><td>60</td><td>spol.sprcha</td></tr>
+<tr><td>Agadir</td><td>Hotel Amenou</td><td>5</td><td>80</td><td>spol.sprcha</td></tr>
+<tr><td>Marrakech</td><td>Medina</td><td>1</td><td>80</td><td>spol.sprcha</td></tr>
+</table>
+
+## Příprava na cestu
+
+### Vízum
+
+Doporučuju se podívat na stránky "Ministerstva zahraničních věcí":http://www.mzv.cz/, kde jsou poměrně vyčerpávající informace o vízech. Píše se tam mimo jiné: "Držitelé cestovních pasů České republiky potřebují ke vstupu do Maroka vízum, udělované Velvyslanectvím Marockého království v Praze. Datum platnosti víza ani počet pobytových dní nesmí být překročeny. V případě nezbytného delšího pobytu v Maroku (nemoc, porucha vozidla apod.) než stanovuje udělené vízum je třeba požádat o jeho prodloužení. Marocké vízum nelze získat na žádném z marockých letišť, ani v přístavech. Pro dlouhodobý pobyt v Maroku je nutné zažádat o vystavení osobního identifikačního dokladu, po výjezdu a návratu do Maroka je nezbytné požádat o reentry víza."
+
+Adresa velvyslanectví je: Velvyslanectví Marockého království, Komornická 25, Praha 6, 160 00, tel: 233 325 656, 224 314 865. Otevírací doba v září 2004 byla 9:00-12:00. Ptali se nás na plán cesty (stačilo uvést seznam měst) a na adresu pobytu v Maroku, což zdůraznili jako důležitou informaci, ale nechali si vysvětlit, že budeme cestovat a hotel hledat na místě. K žádosti o vízum je potřeba fotografie, OP a 540 Kč.
+
+### Vybavení
+
+Měli jsme s sebou: baťohy, šupácký oblečení, českou verzi průvodce Lonely Planet Maroko, láhev slivovice, bednu léků (širokospektrá antibiotika Zinnat, Acylpyrin, Paralen, Ercefuryl, Endiaron, Zyrtec, vitamíny), telefon Siemens (2ks), fotoaparát Canon EOS 300D s teleobjektivem, dobrou náladu a málo peněz.
+
+----------------------------
+
+VELMI UVÍTÁME JAKOUKOLIV ODEZVU NA NÁŠ MAIL
+
+Prožili, vyfotili a sepsali: Honza M. a Tereza A. Poslední úprava stránky: 14. 10. 2004<br ) %>
+
+## Odkazy
+
+[Hondzovo Maroko 2004](http://maroko2004.unas.cz/)
