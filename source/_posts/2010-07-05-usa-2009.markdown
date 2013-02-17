@@ -1,0 +1,42 @@
+---
+layout: post
+title: "USA 2009"
+date: 2010-07-05 07:56
+comments: true
+categories:
+---
+
+Náš výlet do New York City, Rochesteru a Connecticutu.
+
+Fotky jsou nejprve z New Yorku, potom z Niagara Falls a Rochesteru a poslední čtyři z Connecticutu.
+
+{% photo /assets/pix/2009usa/IMG_2227.jpg %}
+{% photo /assets/pix/2009usa/IMG_2231.jpg %}
+{% photo /assets/pix/2009usa/IMG_2071.jpg %}
+{% photo /assets/pix/2009usa/IMG_2072.jpg %}
+{% photo /assets/pix/2009usa/IMG_2102.jpg %}
+{% photo /assets/pix/2009usa/IMG_2157.jpg %}
+{% photo /assets/pix/2009usa/IMG_2163.jpg %}
+{% photo /assets/pix/2009usa/IMG_2174.jpg %}
+{% photo /assets/pix/2009usa/IMG_2007.jpg %}
+{% photo /assets/pix/2009usa/IMG_2030.jpg %}
+{% photo /assets/pix/2009usa/IMG_2276.jpg %}
+{% photo /assets/pix/2009usa/IMG_2278.jpg %}
+{% photo /assets/pix/2009usa/IMG_2279.jpg %}
+{% photo /assets/pix/2009usa/IMG_2291.jpg %}
+{% photo /assets/pix/2009usa/IMG_2460.jpg %}
+{% photo /assets/pix/2009usa/IMG_2471.jpg %}
+{% photo /assets/pix/2009usa/IMG_2479.jpg %}
+{% photo /assets/pix/2009usa/IMG_2487.jpg %}
+{% photo /assets/pix/2009usa/IMG_2492.jpg %}
+{% photo /assets/pix/2009usa/IMG_1989.jpg %}
+{% photo /assets/pix/2009usa/IMG_2526.jpg %}
+{% photo /assets/pix/2009usa/IMG_2325.jpg %}
+{% photo /assets/pix/2009usa/IMG_2374.jpg %}
+{% photo /assets/pix/2009usa/IMG_2395.jpg %}
+{% photo /assets/pix/2009usa/IMG_2413.jpg %}
+{% photo /assets/pix/2009usa/IMG_2115.jpg %}
+{% photo /assets/pix/2009usa/IMG_2149.jpg %}
+{% photo /assets/pix/2009usa/IMG_2124.jpg %}
+{% photo /assets/pix/2009usa/IMG_2131.jpg %}
+
